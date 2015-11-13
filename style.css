@@ -1,0 +1,39 @@
+/*
+Theme Name: Feybrant Umbra child
+Author: Feybrant
+Author URI: http://themes.redradar.net
+Theme URI: https://github.com/FeYbraNt/umbra-child
+Template: umbra
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: umbra-child
+Tags: black, blue, brown, gray, green, orange, pink, purple, red, silver, tan, white, yellow, dark, light, one-column, responsive-layout, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+IMPORTANT: This theme is a child's theme of Umbra's theme from Kelly Dwan & Mel Choyce 
+so you need to download it from http://themes.redradar.net/blog/2014/11/02/introducing-umbra/ to make use of this theme.
+
+Like WordPress, this theme is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+.social-menu {
+  margin: 20px 0 50px !important;
+}
+
+/* New widget styles */
+
+.widget-area {
+  margin: 20px 0 0 0;
+}
+
+.widget-area .widget {
+  float: none;
+  padding: 0 15px;
+  width: 100%;
+  color: white;
+}
+
+.widget h1 {
+  color: white;
+}
